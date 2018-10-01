@@ -36,9 +36,7 @@ An introduction to `git` and Github
 
 ### What is a repo?
 
-- Often shortened to ‘repo’
-- A collection of all the files and
-- the history of those files
+- A collection of all the files and the history of those files
 - Consists of all your commits
 - Can live on a local machine or on a remote server (GitHub!)
 - The act of copying a repository from a remote server is called cloning
@@ -74,4 +72,4 @@ An introduction to `git` and Github
 
 ### Markdown `.md`
 
-!(Mastering Markdown)[https://guides.github.com/features/mastering-markdown/]
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
