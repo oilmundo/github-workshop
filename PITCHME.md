@@ -39,6 +39,9 @@ An introduction to `git` and Github
 - A collection of all the files and the history of those files
 - Consists of all your commits
 - Can live on a local machine or on a remote server (GitHub!)
+
+---
+
 - The act of copying a repository from a remote server is called cloning
 - The process of downloading commits that don’t exist on your machine from a remote repository is called pulling changes
 - The process of adding your local changes to the remote repository is called pushing changes
