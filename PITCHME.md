@@ -1,10 +1,10 @@
----?image=assets/images/backgrounds/1.jpg
+---?image=assets/images/backgrounds/1-min.jpg
 
 # Github
 
 An introduction to `git` and Github
 
----?image=assets/images/backgrounds/2.jpg
+---?image=assets/images/backgrounds/2-min.jpg
 
 ## Overview
 
@@ -15,7 +15,7 @@ An introduction to `git` and Github
 
 ![Git](https://media.giphy.com/media/HQWD85FfnbATC/giphy.gif)
 
----?image=assets/images/backgrounds/3.jpg
+---?image=assets/images/backgrounds/3-min.jpg
 
 ## What is `git`?
 
@@ -25,7 +25,7 @@ An introduction to `git` and Github
 - Allows you to revert any changes and go back to a previous state
 - Isn't the only VCS, but probably the best
 
----?image=assets/images/backgrounds/4.jpg
+---?image=assets/images/backgrounds/4-min.jpg
 
 ## How does `git` work?
 
@@ -34,7 +34,7 @@ An introduction to `git` and Github
 - Have the ability to go back to visit any snapshot
 - Your snapshots from later on will stay around, too
 
----?image=assets/images/backgrounds/5.jpg
+---?image=assets/images/backgrounds/5-min.jpg
 
 ### What is a repo?
 
@@ -42,13 +42,13 @@ An introduction to `git` and Github
 - Consists of all your commits
 - Can live on a local machine or on a remote server (GitHub!)
 
----?image=assets/images/backgrounds/6.jpg
+---?image=assets/images/backgrounds/6-min.jpg
 
 - The act of copying a repository from a remote server is called cloning
 - The process of downloading commits that don’t exist on your machine from a remote repository is called pulling changes
 - The process of adding your local changes to the remote repository is called pushing changes
 
----?image=assets/images/backgrounds/7.jpg
+---?image=assets/images/backgrounds/7-min.jpg
 
 ## More importantly, what is GitHub?
 
@@ -59,25 +59,25 @@ An introduction to `git` and Github
 
 @fa[github] [Github guides](https://guides.github.com/)
 
----?image=assets/images/backgrounds/8.jpg
+---?image=assets/images/backgrounds/8-min.jpg
 
 ### Markdown `.md`
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
----?image=assets/images/backgrounds/9.jpg
+---?image=assets/images/backgrounds/9-min.jpg
 
 ### Issues
 
 @fa[github] [`ember-syfl-ui` issues](https://github.com/storyful/ember-syfl-ui/issues)
 
----?image=assets/images/backgrounds/10.jpg
+---?image=assets/images/backgrounds/10-min.jpg
 
 ### Pull requests
 
 Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
----?image=assets/images/backgrounds/11.jpg
+---?image=assets/images/backgrounds/11-min.jpg
 
 ### Projects
 
