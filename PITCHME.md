@@ -82,3 +82,9 @@ Pull requests let you tell others about changes you've pushed to a GitHub reposi
 ### Projects
 
 @fa[github] [`ember-syfl-ui` project](https://github.com/storyful/ember-syfl-ui/projects/2)
+
+---?image=assets/images/backgrounds/12.jpg
+
+### Your turn!
+
+@fa[github] [explanations](https://github.com/lamabiker/github-workshop/)
