@@ -2,7 +2,7 @@
 # layout : center-right
 
 # Look-and-Feel
-logo : https://storyful.com/wp-content/themes/understrap/img/logo-storyful.svg
+logo : assets/images/logo-storyful.svg
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
