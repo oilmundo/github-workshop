@@ -9,7 +9,7 @@ An introduction to `git` and Github
 1. What is `git`?
 2. How does `git` work?
 3. More importantly, what is GitHub?
-4. Quick example using git and GitHub
+4. Your turn yay @fa[glasses]
 
 ![Git](https://media.giphy.com/media/HQWD85FfnbATC/giphy.gif)
 
