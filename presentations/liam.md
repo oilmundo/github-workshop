@@ -4,8 +4,16 @@
 
 _Front-End Developer._
 
-> I like quotes
+> Quotes are cool
 
 ```js
   // and code.
+  
+  const promise = new Promise((resolve, reject) => {
+    if(false) resolve('lol');
+  });
+
+  promise.then(value => { 
+    console.log(value);
+  });
 ```

@@ -1,3 +1,3 @@
 # github-workshop
 
-[Presentations](templates/)
+[Presentations](/presentations)
