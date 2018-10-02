@@ -19,7 +19,7 @@ An introduction to `git` and Github
 
 - A system that keeps records of your changes
 - Allows for collaborative development
-- Allows you to know who made what changes and when
+- Allows you to know who made which changes and when
 - Allows you to revert any changes and go back to a previous state
 - Isn't the only VCS, but probably the best
 
@@ -55,24 +55,28 @@ An introduction to `git` and Github
 - Adds extra functionality on top of git
 - UI, documentation, bug tracking, feature requests, pull requests, and more!
 
-[Github guides](https://guides.github.com/)
-
-@fa[github]
-
----
-
-### Issues
-
----
-
-### Pull requests
-
----
-
-### Projects
+@fa[github] [Github guides](https://guides.github.com/)
 
 ---
 
 ### Markdown `.md`
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+---
+
+### Issues
+
+@fa[github] [`ember-syfl-ui` issues](https://github.com/storyful/ember-syfl-ui/issues)
+
+---
+
+### Pull requests
+
+Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+
+---
+
+### Projects
+
+@fa[github] [`ember-syfl-ui` project](https://github.com/storyful/ember-syfl-ui/projects/2)
