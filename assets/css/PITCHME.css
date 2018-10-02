@@ -1,3 +1,4 @@
 .slide-background-content {
-  background-size: cover;
+  background-size: cover !important;
+  opacity: .3;
 }
