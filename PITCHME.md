@@ -88,3 +88,4 @@ Pull requests let you tell others about changes you've pushed to a GitHub reposi
 ## Your turn!
 
 @fa[github] [explanations](https://github.com/lamabiker/github-workshop/)
+@fa[info-circle] [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
