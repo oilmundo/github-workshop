@@ -8,7 +8,7 @@ An introduction to `git` and Github
 
 1. What is `git`?
 2. How does `git` work?
-3. What is GitHub?
+3. More importantly, what is GitHub?
 4. Quick example using git and GitHub
 
 ![Git](https://media.giphy.com/media/HQWD85FfnbATC/giphy.gif)
@@ -48,7 +48,7 @@ An introduction to `git` and Github
 
 ---
 
-## What is Github?
+## More importantly, what is GitHub?
 
 - Largest web-based git repository hosting service
 - _remote repositories_ Allows for code collaboration with anyone online
@@ -57,7 +57,7 @@ An introduction to `git` and Github
 
 [Github guides](https://guides.github.com/)
 
-![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ei-sc-github.svg/200px-Ei-sc-github.svg.png)
+@fa[github]
 
 ---
 
