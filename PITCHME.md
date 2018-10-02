@@ -85,6 +85,6 @@ Pull requests let you tell others about changes you've pushed to a GitHub reposi
 
 ---?image=assets/images/backgrounds/12.jpg
 
-### Your turn!
+## Your turn!
 
 @fa[github] [explanations](https://github.com/lamabiker/github-workshop/)
